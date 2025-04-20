@@ -1,0 +1,30 @@
+{
+  "name": "rn-awesome-switch",
+  "version": "1.0.0",
+  "description": "A customizable and animated switch component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "npx git-cz",
+    "build": "tsc"
+  },
+  "keywords": ["switch", "reanimated", "react-native"],
+  "author": "Dhia Ben Hamouda",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.76.0",
+    "react-native-reanimated": ">=3.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "react": "^18.0.0",
+    "react-native": "^0.76.0",
+    "react-native-reanimated": "^3.0.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dhia-Ben-Hamouda/rn-awesome-switch.git"
+  }
+}
