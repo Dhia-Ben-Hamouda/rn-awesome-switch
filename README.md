@@ -2,6 +2,8 @@
 
 A customizable and animated toggle switch built using React Native Reanimated.
 
+![Alt text](https://github.com/Dhia-Ben-Hamouda/rn-awesome-switch/blob/main/src/assets/preview.gif)
+
 ## ✨ Features
 
 - Smooth animated transitions between states
